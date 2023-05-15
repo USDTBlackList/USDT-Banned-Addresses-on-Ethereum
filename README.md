@@ -1,4 +1,7 @@
+![image](https://raw.githubusercontent.com/USDTBlackList/USDT-Banned-Addresses-on-Ethereum/main/USDT-Banned-Addresses-on-Ethereum.png)
+
 # USDT Banned Addresses on Ethereum
+
 > Number of blacklisted USDT addresses by Tether.
 
 
