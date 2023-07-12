@@ -1,15 +1,10 @@
-![image](https://raw.githubusercontent.com/USDTBlackList/USDT-Banned-Addresses-on-Ethereum/main/USDT-Banned-Addresses-on-Ethereum.png)
+![image](https://raw.githubusercontent.com/USDTBlackList/USDT-Banned-Addresses-on-Ethereum/main/USDT-Banned-Addresses-on-Ethereum.png?1747)
 
 # USDT Banned Addresses on Ethereum
 
 > Number of blacklisted USDT addresses by Tether.
-
-
-
-### Statistics
-
-* Banned Addresses: **880**
-* Total USDT in banned wallets: **459,831,500 USDT**
+>
+> https://www.usdtblacklist.com/topic/Blocked
 
 
 
