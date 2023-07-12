@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/USDTBlackList/USDT-Banned-Addresses-on-Ethereum/main/USDT-Banned-Addresses-on-Ethereum.png?1747)
+![image](https://raw.githubusercontent.com/USDTBlackList/USDT-Banned-Addresses-on-Ethereum/main/USDT_Banned_Addresses_on_Ethereum.png)
 
 # USDT Banned Addresses on Ethereum
 
